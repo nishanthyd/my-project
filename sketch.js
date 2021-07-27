@@ -13,7 +13,7 @@ var PLAY=1;
 var END=0;
 localStorage = ["HighestScore"];
 localStorage[0] = 0;
-
+//flappy bird
 function preload(){
 bird1Img= loadImage("bird.png");
 bird2Img= loadImage("bird2.png");
